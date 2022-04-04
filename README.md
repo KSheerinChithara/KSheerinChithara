@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KSheerinChithara
 - 👀 I’m interested in Automation and QA
 - 📫 How to reach me https://www.linkedin.com/in/ksheerinchithara/
+- My blog https://easypeasyautomation.blogspot.com/
 
 <!---
 KSheerinChithara/KSheerinChithara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
